@@ -1,4 +1,4 @@
-#{Todo application}
+# Todo application
 ![image](https://github.com/shubhamcoder11/Todo-application/assets/55068257/f570b334-370a-4980-a175-22767820529c)
 
 - user can add new task
